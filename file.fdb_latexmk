@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1665761973 "c:/Users/user/Desktop/Matematika 3/math_3_calculus/file.tex" "file.pdf" "file" 1665761974
-  "c:/Users/user/Desktop/Matematika 3/math_3_calculus/file.tex" 1665761972 1464 470d02e58857c02e5e2959519580a93f ""
+["pdflatex"] 1666012301 "c:/Users/user/Desktop/Matematika 3/math_3_calculus/file.tex" "file.pdf" "file" 1666012302
+  "c:/Users/user/Desktop/Matematika 3/math_3_calculus/file.tex" 1666012297 1493 268f810b0b4e29e1c780363f18c88f09 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1665699228 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1665698346 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1665698346 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -43,8 +43,8 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1665760723 4635141 23220546ee3b05387077c1debfa3f0c7 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1665744925 3058757 7bd399469b11c0f07058a9ed2b573162 ""
   "c:/texlive/2022/texmf.cnf" 1665744692 713 e69b156964470283e0530f5060668171 ""
-  "file.aux" 1665761974 510 1d42c55e54c847edb2dd80f89c51214c "pdflatex"
-  "file.tex" 1665761972 1464 470d02e58857c02e5e2959519580a93f ""
+  "file.aux" 1666012302 607 49c333ee76a82a17fe703fce2bd50e6f "pdflatex"
+  "file.tex" 1666012297 1493 268f810b0b4e29e1c780363f18c88f09 ""
   (generated)
   "file.aux"
   "file.log"
